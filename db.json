@@ -2,13 +2,13 @@
   "datas": [
     {
       "id": 1,
-      "Ship Name": "Cruiser",
+      "Ship": "Cruiser",
       "Item Name": "Cargo"
     },
     {
       "id": 2,
-      "Ship Name": "Shark Cruiser",
-      "Item Name": "Charcoals"
+      "Ship": "Shark Cruiser",
+      "Item": "Charcoals"
     }
   ],
   "profile": {
