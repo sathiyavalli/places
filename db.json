@@ -3,12 +3,14 @@
     {
       "id": 1,
       "Ship": "Cruiser",
-      "Item": "Cargo"
+      "Item": "Cargo",
+      "Price": "1000 euros"
     },
     {
       "id": 2,
       "Ship": "Shark Cruiser",
-      "Item": "Charcoals"
+      "Item": "Charcoals",
+      "Price": "1200 euros"
     }
   ],
   "profile": {
