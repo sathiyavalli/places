@@ -249,56 +249,6 @@
     "score": 4.1,
     "channel": "HOLIDU",
     "publishedAt": "2020-08-11T12:20:02.340Z"
-  },
-  {
-    "headline": "Very nice host, and quite chill place.",
-    "comment": "Phasellus id massa et ligula lobortis sollicitudin eu vel erat. Suspendisse faucibus aliquam dui, vel ultricies nulla fringilla nec. Nam mauris sapien, eleifend id finibus et, sollicitudin a velit.",
-    "author": "Molly Dodson",
-    "positiveFeedback": "Super clean",
-    "negativeFeedback": null,
-    "score": 4.4,
-    "channel": "HOLIDU",
-    "publishedAt": "2020-08-11T12:20:02.340Z"
-  },
-  {
-    "headline": "Amazing Stay",
-    "comment": "Phasellus id massa et ligula lobortis sollicitudin eu vel erat. Suspendisse faucibus aliquam dui, vel ultricies nulla fringilla nec. Nam mauris sapien, eleifend id finibus et, sollicitudin a velit.",
-    "author": "Molly Dodson",
-    "positiveFeedback": null,
-    "negativeFeedback": "A bit dusty",
-    "score": 4.1,
-    "channel": "BOOKINGCOM",
-    "publishedAt": "2020-08-11T12:20:02.340Z"
-  },
-  {
-    "headline": "Amazing Pool!",
-    "comment": "Nulla dictum ligula ac tortor egestas, sit amet ullamcorper risus sollicitudin. Morbi vitae leo accumsan, interdum ligula non, placerat ligula. Ut faucibus congue purus, vitae semper sapien viverra non. Pellentesque rhoncus porttitor diam, eu ultrices metus dictum at.",
-    "author": "Aneesha Conley",
-    "positiveFeedback": "Everything you need is there",
-    "negativeFeedback": "No parking spot.",
-    "score": 4.4,
-    "channel": "AIRBNB",
-    "publishedAt": "2020-08-11T12:20:02.340Z"
-  },
-  {
-    "headline": "Lovely finca",
-    "comment": "Phasellus id massa et ligula lobortis sollicitudin eu vel erat. Suspendisse faucibus aliquam dui, vel ultricies nulla fringilla nec. Nam mauris sapien, eleifend id finibus et, sollicitudin a velit.",
-    "author": "Geraint Wagner",
-    "positiveFeedback": "Host very welcoming",
-    "negativeFeedback": "A bit dusty",
-    "score": 4.4,
-    "channel": "AIRBNB",
-    "publishedAt": "2020-08-11T12:20:02.340Z"
-  },
-  {
-    "headline": "Amazing Pool!",
-    "comment": "Nulla dictum ligula ac tortor egestas, sit amet ullamcorper risus sollicitudin. Morbi vitae leo accumsan, interdum ligula non, placerat ligula. Ut faucibus congue purus, vitae semper sapien viverra non. Pellentesque rhoncus porttitor diam, eu ultrices metus dictum at.",
-    "author": "Kaisha Melton",
-    "positiveFeedback": null,
-    "negativeFeedback": null,
-    "score": 4.1,
-    "channel": "AIRBNB",
-    "publishedAt": "2020-08-11T12:20:02.340Z"
   }    
   ],
   "profile": {
